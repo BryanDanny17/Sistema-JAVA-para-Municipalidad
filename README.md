@@ -1,0 +1,1 @@
+Proyecto final del curso de Algoritmos y Estructuras de Datos que consiste en realizar una Interface en Java para una Municipalidad, donde incluir ordenamiento de licencias por metodos burbuja, etc. Con esto ver las estadisticas y modificar los datos que se hayan ingresado y poder exportarlos tanto como PDF y Excel. 
